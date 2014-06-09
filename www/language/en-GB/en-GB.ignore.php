@@ -1,0 +1,1 @@
+../../../vendor/anahita/anahita/vendor/joomla/language/en-GB/en-GB.ignore.php
